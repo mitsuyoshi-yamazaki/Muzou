@@ -6,6 +6,8 @@
 
 - [Armadillidiidae](https://github.com/mitsuyoshi-yamazaki/Armadillidiidae)
   - 内面をもつNPCの動作テスト
+- [Kaleidoscope](https://github.com/mitsuyoshi-yamazaki/Kaleidoscope)
+  - 万華鏡
 
 ## てきとう
 
